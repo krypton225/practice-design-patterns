@@ -1,0 +1,32 @@
+{
+    "name": "js-design-patterns",
+    "version": "1.0.0",
+    "description": "Just a more mixins and functions with SCSS for more productive projects.",
+    "markdown": "github",
+    "license": "MIT",
+    "packageManager": "yarn@4.5.0",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://opensource.org/license/mit/"
+        }
+    ],
+    "author": "Khaled Mohamed <k.mohamed.11.98@gmail.com> (https://github.com/krypton225)",
+    "contributors": [
+        "Khaled Mohamed"
+    ],
+    "bugs": {
+        "url": "https://github.com/krypton225/practice-design-patterns/issues",
+        "email": "black_axis@outlook.com"
+    },
+    "repository": {
+        "url": "https://github.com/krypton225/practice-design-patterns",
+        "type": "git"
+    },
+    "scripts": {
+        "dev": "tsc --watch"
+    },
+    "devDependencies": {
+        "typescript": "^5.7.2"
+    }
+}
